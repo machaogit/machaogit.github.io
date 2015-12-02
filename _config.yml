@@ -70,4 +70,4 @@ theme: landscape
 deploy:
   type: git
   repository: git@github.com:machaogit/machao.github.io.git
-  branch: master
+  branch: gh-pages
